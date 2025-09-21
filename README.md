@@ -1,7 +1,7 @@
 # Adatelemzés
 **Széchenyi István Egyetem // Győr // Adatelemzés // GKLM_MSTM025**
 
-<img src="docs/python.png" alt="Programozás" width="301" height="102">
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="301" height="102">
 
 ## Tartalom
 
